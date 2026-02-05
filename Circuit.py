@@ -71,5 +71,5 @@ class Circuit:
 
     def print_circuit_current(self):
         print("\nCircuit Current:")
-        print(f"{self.i:.1f} A")
+        print(f"{self.i:.3f} A")
 
